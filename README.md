@@ -16,10 +16,10 @@ and the animation which is most fascinating we can create our animation just my 
 ### Duration Of Completing this project
 > Honestly it took me more than **5 hours** .
 
-[Visit This Project Live](https://abhi-project-1.netlify.app/)
+[Visit This Project Live](https://abhi-project-15.netlify.app/)
 
 
 #
 
-To see my work visit my [Portfolio]("my-portfolio-website")
+To see my work visit my [Portfolio](https://portfolio-of-abhishek.netlify.app)
 
