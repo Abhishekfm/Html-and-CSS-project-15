@@ -276,3 +276,145 @@ footer i{
 footer div:nth-child(2){
     padding-left: 400px;
 }
+
+
+@media screen and (max-width:1246px) {
+    .head-feature{
+        margin: 20px 20px;
+    }
+    .world-project{
+        margin: 20px 20px;
+    }
+    .world-project img{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width:957px) {
+    .nav-items{
+        width: 100%;
+    }
+    .profile img{
+        width: 100%;
+    }
+    .intro{
+        margin: 20px 20px;
+    }
+    .intro-text h1{
+        font-size: 30px;
+    }
+    .port div{
+        padding: 10px;
+    }
+    .port div img{
+        width: 40px;
+    }
+    .port{
+        margin: 0px;
+    }
+    .work{
+        margin: 20px 10px;
+    }
+    footer{
+        padding: 10px 20px;
+    }
+    footer div:nth-child(2){
+        padding-left: 20px;
+        padding-top: 10px;
+    }
+}
+
+@media screen and (max-width:638px) {
+    .exp{
+        flex-wrap: wrap;
+    }
+    .port div{
+        margin-left: 10px;
+    }
+    .nav{
+        padding: 10px;
+    }
+    .btn{
+        /* padding: 10px 30px; */
+        width: 40%;
+    }
+}
+
+@media screen and (max-width:492px) {
+    .nav{
+        padding: 10px;
+    }
+    .port div h2{
+        font-size: 18px;
+    }
+    .port div p{
+        font-size: 13px;
+    }
+    .port div a{
+        font-size: 13px;
+        font-weight: 500;
+    }
+    .exp-project div{
+        padding: 20px 40px;
+        text-align: center;
+    }
+    .nav-items li{
+        font-size: 10px;
+    }
+    .logo img{
+        width: 80px;
+    }
+    .work h1{
+        font-size: 30px;
+    }
+    .work{
+        padding: 10px;
+    }
+    .work p{
+        font-size: 12px;
+    }
+    .intro-text p{
+        font-size: 11px;
+    }
+    .head-feature h1{
+        font-size: 25px;
+    }
+    .head-feature div:first-child{
+        width: 70%;
+    }
+    .feature div h4{
+        font-size: 12px;
+    }
+    .feature div a{
+        font-size: 10px;
+    }
+    .btn-sec{
+        font-size: 10px;
+        padding: 4px 10px;
+    }
+    .bot-nav{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:411px) {
+    .btn{
+        width: 60%;
+    }
+    .port{
+        flex-wrap: wrap;
+    }
+    .port div{
+        margin-top: 20px;
+    }
+    .intro-text h1{
+        font-size: 20px;
+    }
+    .intro-text h4{
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .nav-items li:nth-child(5){
+        display: none;
+    }
+}
